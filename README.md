@@ -4,6 +4,9 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Shreya Shirur</h1>
+<p align="center">
+  <img src="developer.png" alt="Developer at Work" width="500"/>
+</p>
 
 <p align="center">
   🎓 MCA Student at <b>MIT World Peace University (MIT-WPU), Pune</b><br>
