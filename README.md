@@ -45,14 +45,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shreya-shirur-332ab4348">
