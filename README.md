@@ -1,4 +1,17 @@
-# Hi 👋 I'm Shreya Shirur
+# Hi 👋 I'm Shreya Shirur     
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=MCA+Student+at+MIT-WPU;AWS+%7C+DevOps+%7C+Java+Developer;Linux+%7C+Python+%7C+SQL;Aspiring+Cloud+Engineer&center=true&width=600&height=45">
+</p>
+
+<h1 align="center">Hi 👋 I'm Shreya Shirur</h1>
+
+<p align="center">
+  🎓 MCA Student at <b>MIT World Peace University (MIT-WPU), Pune</b><br>
+  💻 Aspiring Software & Cloud Engineer<br>
+  🚀 Passionate about Backend, Cloud & DevOps
+</p>
 
 🎓 **MCA Student at MIT World Peace University (MIT-WPU), Pune**  
 💻 Aspiring **Software & Cloud Engineer**  
