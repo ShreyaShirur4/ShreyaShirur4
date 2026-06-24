@@ -12,8 +12,8 @@
 
 <p align="center">
   🎓 MCA Student at <b>MIT World Peace University (MIT-WPU), Pune</b><br>
-  💻 Aspiring Software & Cloud Engineer<br>
-  🚀 Passionate about Backend Development, Cloud & DevOps
+  💻 Aspiring Software Developer | Full Stack Developer<br>
+  ☁️ AWS Certified Cloud Practitioner | Interested in Cloud & Backend Development
 </p>
 
 ---
@@ -30,20 +30,27 @@
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Scripting
+### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
-![Shell](https://img.shields.io/badge/Shell_Scripting-black?style=for-the-badge)
 
-### ☁️ Cloud & DevOps
+### 🌐 Full Stack Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge)
+![React](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+
+### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
 
 ---
 
