@@ -19,10 +19,12 @@
 ---
 
 ## 🧑‍💻 About Me
-- MCA pursuing student with a strong interest in **Cloud & DevOps**
-- Hands-on experience with **Java, Python, SQL, and Linux scripting**
-- Currently learning **AWS services and DevOps tools**
-- Passionate about **automation, scalable systems, and backend development**
+- MCA student specializing in Java, Full Stack Development, and Cloud Technologies
+- Hands-on experience with Java, Spring Boot, ReactJS, SQL, and REST APIs
+- Skilled in backend development, web applications, and database management
+- AWS Certified Cloud Practitioner with cloud fundamentals knowledge
+- Passionate about learning new technologies and building scalable solutions
+- Seeking opportunities in Software Development and Cloud roles
 
 ---
 
